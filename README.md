@@ -1,3 +1,6 @@
+
+![alt text](https://i.ibb.co/m06Ndsm/AD.png)
+
 ## About Me 
 I'm a full stack software engineer & web developer located in Orlando, FL. I am resourceful and detail-driven with excellent communication skills and a strong foundation in collaborative environments. Extensive background in customer service and management with over 8 years’ experience in high volume restaurants. Highly adaptable and capable of working under pressure. 
 
@@ -16,5 +19,4 @@ HTML, CSS, JavaScript, jQuery, React, Node.js, Express, MongoDB, Mongoose, Pytho
 
 
 ![](https://komarev.com/ghpvc/?username=AndrewDimes)
-
 

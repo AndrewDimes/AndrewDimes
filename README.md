@@ -8,7 +8,7 @@
 
 
 ## About Me 🧔
-I'm a full stack software engineer & web developer located in Orlando, FL. I am resourceful and detail-driven with excellent communication skills and a strong foundation in collaborative environments. Extensive background in customer service and management with over 8 years’ experience in high volume restaurants. Highly adaptable and capable of working under pressure. 
+I'm a software engineer & full stack web developer located in Orlando, FL. I am resourceful and detail-driven with excellent communication skills and a strong foundation in collaborative environments. Extensive background in customer service and management with over 8 years’ experience in high volume restaurants. Highly adaptable and capable of working under pressure. 
 - I'm currently working on "Tip-Tracker" which is a web application to help tipped employees keep track of their wages.
 - I'm always looking to collaborate on projects feel free to reach out to me through email or on LinkedIn.
 ## Languages and Tools 🛠️

@@ -9,9 +9,10 @@
 
 
 ## About Me 🧔
-I'm a software developer located in Walnut Creek, California. I have an extensive background in customer service and management with over 8 years’ experience in high volume restaurants and am highly adaptable and capable of working under pressure. 
-- I'm currently working on TipTree which is a web application to help tipped employees keep track of their wages.
-- I'm always looking to collaborate on projects feel free to reach out to me through email or on LinkedIn.
+As a software developer based in Walnut Creek, California, I bring a wealth of experience in customer service and management to the table. Having spent over 8 years working in high volume restaurants, I am well-versed in operating under pressure and adapting to new situations.
+
+Currently, I am working on TipTree, a web application designed to help tipped employees manage their wages. I am always open to collaborating on new projects, so please don't hesitate to contact me via email or LinkedIn.
+
 ## Languages and Tools 🛠️
 HTML, CSS, JavaScript, jQuery, React, Node.js, Express, MongoDB, Mongoose, Python, Django, PostgresSQL, VS Code, NPM, Markdown Terminal Commands, Git, GitHub Netlify, Heroku, Bootstrap, Materialize, Semantic UI.
 
